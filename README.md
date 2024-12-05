@@ -1,6 +1,9 @@
-#About Me 👩‍💻
+About me 👋👩‍💻
+
 I am a passionate software engineer with a deep interest in data engineering and artificial intelligence. I specialize in building scalable applications using technologies like Python, JavaScript, TypeScript, Node.js, and Express.js. While my core expertise lies in software engineering, I’m also fascinated by how data can drive innovation and how AI can transform industries.I strive to bridge the gap between software engineering and data science, creating solutions that not only optimize performance but also unlock valuable insights from complex data. My ultimate goal is to harness the power of AI and data to develop smart, scalable systems that can drive technological advancement and solve real-world challenges.
-#What I do 💻
+
+What I do 💻
+
 I focus on building efficient and scalable software systems while continuously improving my skills in data engineering and AI. I’m always looking to learn new technologies and collaborate on exciting projects.
 #List of my projects 📑
 1. Task Management Web App
@@ -32,7 +35,9 @@ Build an interactive data dashboard using JavaScript (e.g., D3.js or Chart.js) t
 
 10. Machine Learning for Predictive Analysis
 Build a machine learning model that predicts outcomes, such as predicting house prices based on various factors. Use Python with libraries like scikit-learn, pandas, and matplotlib for data preprocessing and model evaluation.
-#My skills 📜
+
+My skills 📜
+
 Programming Languages & Tools:
 Languages: Python, JavaScript, TypeScript, R, SQL, HTML, CSS
 Frameworks & Libraries: Node.js, Express.js, React.js, TensorFlow, scikit-learn, pandas, NumPy, MATLAB, D3.js
