@@ -1,4 +1,4 @@
-About me 👋👩‍💻
+## About me 👋👩‍💻
 
 I am a passionate software engineer with a deep interest in data engineering and artificial intelligence. I specialize in building scalable applications using technologies like Python, JavaScript, TypeScript, Node.js, and Express.js. While my core expertise lies in software engineering, I’m also fascinated by how data can drive innovation and how AI can transform industries.I strive to bridge the gap between software engineering and data science, creating solutions that not only optimize performance but also unlock valuable insights from complex data. My ultimate goal is to harness the power of AI and data to develop smart, scalable systems that can drive technological advancement and solve real-world challenges.
 
